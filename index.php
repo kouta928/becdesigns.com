@@ -1,5 +1,5 @@
 <?php 
-const URL_SITE = "http://localhost/entra21/diegobracellos.com/";
+const URL_SITE = "http://localhost/entra21/becdesigns.com/";
 require_once "mobile_device_detect.php";
 require_once "conectadb.php";
 $isMobile = mobile_device_detect();
