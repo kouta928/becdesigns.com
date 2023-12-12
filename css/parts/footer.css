@@ -1,0 +1,15 @@
+footer{
+    width: 100%;
+    height: 150px;
+    padding: 10px 0;
+    background-color: #EB1707;
+}
+footer .socialIcons{
+    padding-left: 0!important;
+}
+footer .socialIcons li{
+    display: inline-block;
+}
+footer .socialIcons li a {
+    color:rgba(0, 0, 0, 0.2)
+}
